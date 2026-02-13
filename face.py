@@ -37,7 +37,7 @@ while True:
                 int(bboxC.height * ih)
             )
 
-            cv2.rectangle(img, bbox, (255, 0, 255), 2)
+            cv2.rectangle(img, bbox, (255, 255, 0), 2)
 
             cv2.putText(
                 img,
@@ -45,7 +45,7 @@ while True:
                 (bbox[0], bbox[1] - 20),
                 cv2.FONT_HERSHEY_PLAIN,
                 2,
-                (0, 255, 0),
+                (0, 0, 255),
                 2
             )
 
