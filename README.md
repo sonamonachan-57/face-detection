@@ -24,11 +24,11 @@ How It Works:
 
    Webcam captures real-time video.
 
-  Frames are converted from BGR to RGB (required by MediaPipe).
+   Frames are converted from BGR to RGB (required by MediaPipe).
 
-  MediaPipe Face Detection model processes the image.
+   MediaPipe Face Detection model processes the image.
 
-  For each detected face:
+ For each detected face:
 
      Bounding box is calculated
 
