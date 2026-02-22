@@ -197,7 +197,7 @@ The output is visualized as a **line projecting from the nose**, indicating the 
 ---
 
 ## Features
-
+---
    Real-time webcam head pose estimation
    
    Facial landmark detection using dlib (68-point model)
@@ -231,7 +231,7 @@ Display head pose visualization
 ---
 
 ## Requirements
-
+---
 Install dependencies:
 
 ```bash
@@ -247,7 +247,7 @@ Place it in the project folder.
 
 
 ##  Key Concepts Used
-
+---
 ### 🔹 Facial Landmark Detection
 
 dlib detects 68 facial keypoints.
