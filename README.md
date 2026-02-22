@@ -29,7 +29,7 @@ How It Works:
    MediaPipe Face Detection model processes the image.
 
  For each detected face:
-
+---
      Bounding box is calculated
 
      Confidence score is displayed
