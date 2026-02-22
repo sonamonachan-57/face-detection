@@ -188,7 +188,7 @@ Output:
  # 6. Real-Time Head Pose Estimation using OpenCV & dlib
 
 ## Overview
-
+---
 This project implements **real-time head pose estimation** using a webcam.
 It detects a face, extracts facial landmarks, and estimates the head orientation (pose) using the **solvePnP** algorithm from OpenCV.
 
