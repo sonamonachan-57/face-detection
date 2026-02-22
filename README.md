@@ -92,7 +92,7 @@ Technologies used:
       Haar Cascade Classifier
 
 How it works:
----
+----
    i.Load Haar Cascade Classifier
      The program loads OpenCV’s pre-trained haarcascade_frontalface_default.xml model for detecting frontal faces.
 
